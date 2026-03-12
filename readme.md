@@ -3,11 +3,11 @@
 Programmatic Windows factory reset tool that triggers a full "Reset this PC" (Remove Everything) operation from the command line, without requiring user interaction through the Settings UI.
 
 > [!WARNING]
-> **Experimental / Research Only**
-> This tool was developed using information obtained through **reverse engineering** and utilizes **undocumented Windows internal functions**. 
-> - It is intended strictly for research and investigation.
-> - There is no guarantee of stability or compatibility.
-> - **Use at your own risk.** If it does not work as expected, please do not ask for support, as it relies on undocumented behavior that may change without notice.
+> **Research & Reverse Engineering Only**
+> This tool was developed using information obtained through **reverse engineering** and utilizes **undocumented Windows internal functions**.
+> - **No Support:** If it does not work, **do not ask for help**. This relies on internal behavior that may change or fail without notice.
+> - **Research Only:** Intended strictly for investigation and experimental use.
+> - **Use at your own risk:** I am not responsible for any system damage or data loss.
 
 ## How It Works
 
