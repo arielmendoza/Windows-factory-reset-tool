@@ -2,6 +2,13 @@
 
 Programmatic Windows factory reset tool that triggers a full "Reset this PC" (Remove Everything) operation from the command line, without requiring user interaction through the Settings UI.
 
+> [!WARNING]
+> **Experimental / Research Only**
+> This tool was developed using information obtained through **reverse engineering** and utilizes **undocumented Windows internal functions**. 
+> - It is intended strictly for research and investigation.
+> - There is no guarantee of stability or compatibility.
+> - **Use at your own risk.** If it does not work as expected, please do not ask for support, as it relies on undocumented behavior that may change without notice.
+
 ## How It Works
 
 Windows includes an undocumented internal library called `ResetEngine.dll` — the **Push Button Reset (PBR)** engine. This is the same engine that powers the "Reset this PC" feature in **Settings > System > Recovery**. The Settings UI (`SystemSettings.exe`) calls into this library through `ResetEngOnline.dll` to orchestrate the reset.
