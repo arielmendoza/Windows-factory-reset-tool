@@ -1,4 +1,4 @@
-# ResetWipe
+# Windows factory reset tool
 
 Programmatic Windows factory reset tool that triggers a full "Reset this PC" (Remove Everything) operation from the command line, without requiring user interaction through the Settings UI.
 
