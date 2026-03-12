@@ -1,0 +1,52 @@
+# Visual Studio
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM/
+ARM64/
+out/
+build/
+bin/
+obj/
+
+# Visual Studio User Files
+*.vcxproj.user
+*.sqlproj.user
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Build Results
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.obj
+*.iobj
+*.ipdb
+*.log
+*.tlog
+*.cache
+*.temp
+*.tmp
+
+# Visual Studio IntelliSense and Browse Database
+*.sdf
+*.opensdf
+*.ncb
+*.suo
+*.db
+*.opendb
+
+# Windows Image files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Others
+*.VC.db
+*.VC.opendb

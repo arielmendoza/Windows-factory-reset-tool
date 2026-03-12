@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Windows_factory_reset_tool/Windows_factory_reset_tool.vcxproj" Id="e7b666d8-e633-4f81-b37a-49ff963f03ec" />
+</Solution>
