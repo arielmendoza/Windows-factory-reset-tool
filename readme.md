@@ -261,6 +261,6 @@ Verify that the target machine has:
 2. Sufficient free disk space on C: for the staging operation
 3. No Group Policy blocking recovery features (`ResetDisabledByPolicy`)
 
-## License
+## License .
 
 MIT
