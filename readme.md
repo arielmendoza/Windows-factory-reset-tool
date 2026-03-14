@@ -261,6 +261,14 @@ Verify that the target machine has:
 2. Sufficient free disk space on C: for the staging operation
 3. No Group Policy blocking recovery features (`ResetDisabledByPolicy`)
 
+## 🚀 What's Next & Acknowledgements
+
+A huge thanks to the reverse engineering and C++ communities (especially the folks coming from Reddit, Twitter, and internal tech chats) for the incredible initial response to this project! 
+
+This tool is just the beginning. I am currently deep-diving into other undocumented Windows APIs and internal OS engines to build a collection of lightweight, zero-overhead C++ utilities. 
+
+If you are into low-level system programming, bypassing standard OS UI constraints, and exploring Windows internals, **star or watch this repository** to stay updated on future releases!
+
 ## License .
 
 MIT
